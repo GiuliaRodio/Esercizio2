@@ -5,7 +5,7 @@ using namespace std;
 #define N 5
 #define M 4
 int main (){
-  srand(time(0))
+  srand(time(0));
   int R,C,R1,C1,A[N][M];
     R=0;
     while (R<N){
